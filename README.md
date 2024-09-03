@@ -1,8 +1,9 @@
 # MyDailyWork-Quiz
 
-Task 2: Calculator
+Task 3: Quiz Website
 
 Features
-A functional calculator that performs basic arithmetic operations.
-Designed using HTML, CSS, and JavaScript for smooth user interaction.
-Includes a clean and simple user interface.
+
+A quiz website that allows users to answer a series of questions.
+Built using HTML, CSS, and JavaScript for dynamic content rendering.
+Tracks user scores and provides feedback after each quiz.
